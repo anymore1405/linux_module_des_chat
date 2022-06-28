@@ -1,0 +1,5 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory '/home/parallels/charater_des'
+make: 'server' is up to date.
+make: Leaving directory '/home/parallels/charater_des'
+ 
